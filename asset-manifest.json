@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cb28ad7e.css",
-    "main.js": "/static/js/main.bd0f220e.js",
+    "main.js": "/static/js/main.b4fa1329.js",
     "index.html": "/index.html",
     "static/media/blob-haikei.svg": "/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.cb28ad7e.css.map": "/static/css/main.cb28ad7e.css.map",
-    "main.bd0f220e.js.map": "/static/js/main.bd0f220e.js.map"
+    "main.b4fa1329.js.map": "/static/js/main.b4fa1329.js.map"
   },
   "entrypoints": [
     "static/css/main.cb28ad7e.css",
-    "static/js/main.bd0f220e.js"
+    "static/js/main.b4fa1329.js"
   ]
 }
